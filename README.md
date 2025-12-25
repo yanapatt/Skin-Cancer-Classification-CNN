@@ -3,6 +3,16 @@
 ## Project Description
 โปรเจคนี้เกี่ยวกับการจำแนกภาพถ่ายโรคมะเร็งผิวหนัง (Classification) จำนวน 7 Classes ดังตารางด้านล่าง โดยใช้ความรู้ที่ได้เรียนในวิชา Computer Vision เพื่อพัฒนา Multimodal CNN with MLP model ในการหาความสัมพันธ์ระหว่าง Metadata ที่เป็น Tabuler Data ร่วมกับ Image data ที่เป็นข้อมูลภาพถ่าย เพื่อให้การทำนายในแต่ละ Class มีประสิทธิภาพมากยิ่งขึ้น
 
+| Label | Total | Train | Augmented | Valid | Test |
+|------|-------|-------|-----------|-------|------|
+| bkl  | 1076  | 861   | 2605      | 117   | 98   |
+| nv   | 6499  | 5211  | 5211      | 651   | 637  |
+| df   | 115   | 92    | 368       | 12    | 11   |
+| mel  | 1103  | 879   | 2605      | 107   | 117  |
+| vasc | 142   | 116   | 464       | 15    | 11   |
+| bcc  | 509   | 409   | 1636      | 52    | 48   |
+| akiec| 327   | 264   | 1056      | 30    | 33   |
+
 ## Environment setup
 All experiments were conducted on the Google Colab platform, utilizing an NVIDIA Tesla L4 GPU with VRAM 56.9 GB. for hardware acceleration. The models were implemented in Python using the TensorFlow
 (v2.19.0) framework with its integrated Keras (v3.10.0) API. Other key libraries included Pandas for metadata manipulation and Matplotlib/Seaborn for the visualizations in our Exploratory Data Analysis (EDA).
