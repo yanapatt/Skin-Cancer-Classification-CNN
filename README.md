@@ -1,4 +1,4 @@
-# Smart-Skin-Cancer-Assistant-CNN-Model
+# Skin-Cancer-Classification-CNN
 ---
 ## Project Description
 โปรเจคนี้เกี่ยวกับการจำแนกภาพถ่ายโรคมะเร็งผิวหนัง (Classification) จำนวน 7 Classes ดังตารางด้านล่าง โดยใช้ความรู้ที่ได้เรียนในวิชา Computer Vision เพื่อพัฒนา Multimodal CNN with MLP model ในการหาความสัมพันธ์ระหว่าง Metadata ที่เป็น Tabuler Data ร่วมกับ Image data ที่เป็นข้อมูลภาพถ่าย เพื่อให้การทำนายในแต่ละ Class มีประสิทธิภาพมากยิ่งขึ้น
