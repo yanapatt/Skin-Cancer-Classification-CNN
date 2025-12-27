@@ -55,4 +55,5 @@ EfficientNetV2B0 (Multimodal)
 | **Macro Avg** | 0.7475  | 0.7421 | 0.7391   | 955     |
 | **Weighted Avg** | 0.8433 | 0.8471 | 0.8423 | 955     |
 
-
+## References
+Mahmud, F., Mahfiz, M. M., Kabir, M. Z., & Abdullah, Y. (2023). An Interpretable Deep Learning Approach for Skin Cancer Categorization. ArXiv. https://arxiv.org/abs/2312.10696
