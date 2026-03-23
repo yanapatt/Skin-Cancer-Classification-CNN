@@ -18,7 +18,8 @@ All experiments were conducted on the Google Colab platform, utilizing an NVIDIA
 (v2.19.0) framework with its integrated Keras (v3.10.0) API. Other key libraries included Pandas for metadata manipulation and Matplotlib/Seaborn for the visualizations in our Exploratory Data Analysis (EDA).
 
 ## Dataset
-HAM10000 Datasets: <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T">Click here</a>
+HAM10000 Datasets: <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T">Click here</a>  
+Kaggle HAM10000 Datasets: <a href="https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000">Click here</a>  
 
 ## Model architecture
 <img width="512" height="767" alt="Model" src="https://github.com/user-attachments/assets/778262ef-2220-402b-8bcc-583174738b19" />  
