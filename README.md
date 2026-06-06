@@ -13,7 +13,7 @@
 | akiec| 327   | 264   | 1056      | 30    | 33   |
 
 ## Environment setup
-All experiments were conducted on the Google Colab platform, utilizing an NVIDIA Tesla L4 GPU with VRAM 56.9 GB. for hardware acceleration. The models were implemented in Python using the TensorFlow
+All experiments were conducted on the Google Colab platform, utilizing an NVIDIA Tesla L4 GPU with VRAM 24.0 GB. for hardware acceleration. The models were implemented in Python using the TensorFlow
 (v2.19.0) framework with its integrated Keras (v3.10.0) API. Other key libraries included Pandas for metadata manipulation and Matplotlib/Seaborn for the visualizations in our Exploratory Data Analysis (EDA).
 
 ## Dataset
