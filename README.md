@@ -63,4 +63,17 @@ Napa Sae-Bae
 Yanapatt Pankaseam  
 Pacharadanai Kurakanog  
 Sirayuth Chotithammaporn  
-Natthanon Limlek  
+
+## **Bibtex**
+```
+@INPROCEEDINGS{11596744,
+  author={Pankaseam, Yanapatt and Kurakanog, Pacharadanai and Chotithammaporn, Sirayuth and Khomkham, Banphatree and Sae-Bae, Napa},
+  booktitle={2026 23rd International Joint Conference on Computer Science and Software Engineering (JCSSE)}, 
+  title={Multimodal Skin Lesion Classification using CNN and MLP Feature Fusion}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={97-102},
+  keywords={Modeling;Metadata;Accuracy;Visualization;Architecture;Computer architecture;Convolutional neural networks;Printing;Fuses;Lesions;Convolutional Neural Networks (CNNs);Multilayer Perceptron;Multimodal Learning;Skin Cancer Detection;HAM10000},
+  doi={10.1109/JCSSE68839.2026.11596744}}
+```
